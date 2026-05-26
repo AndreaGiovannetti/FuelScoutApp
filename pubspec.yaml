@@ -1,0 +1,73 @@
+name: fuelscout
+description: Find the lowest fuel prices near you — fast, smart, beautiful.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  provider: ^6.1.5+1
+
+  # Maps
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+
+  # Location
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+
+  # Storage
+  shared_preferences: ^2.5.5
+
+  # HTTP
+  http: ^1.2.0
+  dio: ^5.4.1
+
+  # UI
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  lottie: ^3.0.0
+  smooth_page_indicator: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+  sliding_up_panel: ^2.0.0+1
+  animations: ^2.0.11
+  flutter_staggered_animations: ^1.1.1
+  cupertino_icons: ^1.0.6
+
+  # Utils
+  intl: ^0.19.0
+  url_launcher: ^6.2.5
+  permission_handler: ^11.3.0
+  connectivity_plus: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
+  #   - assets/animations/
+  # fonts:
+  #   - family: Syne
+  #     fonts:
+  #       - asset: assets/fonts/Syne-Regular.ttf
+  #       - asset: assets/fonts/Syne-Medium.ttf
+  #         weight: 500
+  #       - asset: assets/fonts/Syne-SemiBold.ttf
+  #         weight: 600
+  #       - asset: assets/fonts/Syne-Bold.ttf
+  #         weight: 700
+  #       - asset: assets/fonts/Syne-ExtraBold.ttf
+  #         weight: 800
