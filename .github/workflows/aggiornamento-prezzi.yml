@@ -2,8 +2,8 @@ name: Aggiorna Prezzi Carburante
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Esegue lo script ogni 6 ore
-  workflow_dispatch: # Permette di avviarlo anche a mano con un pulsante
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -27,7 +27,7 @@ jobs:
       - name: Esegui lo script di estrazione
         run: node index.js
 
-     - name: Salva e pubblica il nuovo JSON
+      - name: Salva e pubblica il nuovo JSON
         run: |
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
