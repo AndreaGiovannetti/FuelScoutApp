@@ -27,10 +27,10 @@ jobs:
       - name: Esegui lo script di estrazione
         run: node index.js
 
-      - name: Salva e pubblica il nuovo JSON
+     - name: Salva e pubblica il nuovo JSON
         run: |
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
-          git add prezzi-italia.json
+          git add -f prezzi-italia.json
           git commit -m "Aggiornamento prezzi automatico" || exit 0
           git push
