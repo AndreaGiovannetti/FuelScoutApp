@@ -45,12 +45,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.015,
+        "prezzo": 2.025,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.038,
+        "prezzo": 2.058,
         "modalita": "Self"
       },
       {
@@ -551,32 +551,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.294,
+        "prezzo": 2.644,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.024,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.389,
+        "prezzo": 2.394,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.124,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.639,
+        "prezzo": 2.644,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.419,
+        "prezzo": 2.424,
         "modalita": "Self"
       }
     ]
@@ -2157,22 +2157,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.369,
+        "prezzo": 2.389,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.439,
+        "prezzo": 2.459,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.159,
         "modalita": "Self"
       },
       {
@@ -2182,22 +2182,22 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.689,
+        "prezzo": 2.709,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.439,
+        "prezzo": 2.459,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.639,
+        "prezzo": 2.659,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.339,
+        "prezzo": 2.359,
         "modalita": "Self"
       }
     ]
@@ -2220,12 +2220,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.509,
+        "prezzo": 2.519,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.259,
+        "prezzo": 2.269,
         "modalita": "Self"
       },
       {
@@ -2235,12 +2235,12 @@
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.719,
+        "prezzo": 2.729,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.499,
+        "prezzo": 2.509,
         "modalita": "Self"
       }
     ]
@@ -2864,22 +2864,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.957,
+        "prezzo": 1.977,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.957,
+        "prezzo": 1.977,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.077,
+        "prezzo": 2.097,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.077,
+        "prezzo": 2.097,
         "modalita": "Self"
       },
       {
@@ -5436,22 +5436,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.095,
+        "prezzo": 2.148,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.935,
+        "prezzo": 1.988,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.319,
+        "prezzo": 2.155,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 1.995,
         "modalita": "Self"
       }
     ]
@@ -6530,22 +6530,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.119,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
         "tipo": "Metano",
-        "prezzo": 1.569,
+        "prezzo": 1.579,
         "modalita": "Servito"
       },
       {
         "tipo": "GPL",
-        "prezzo": 0.699,
+        "prezzo": 0.709,
         "modalita": "Servito"
       }
     ]
@@ -7258,7 +7258,7 @@
       },
       {
         "tipo": "GPL",
-        "prezzo": 0.799,
+        "prezzo": 0.769,
         "modalita": "Servito"
       },
       {
@@ -10101,12 +10101,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -10210,12 +10210,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio Energy D",
-        "prezzo": 2.089,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -11277,12 +11277,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -12157,12 +12157,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -12429,12 +12429,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -12614,7 +12614,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
@@ -12763,12 +12763,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -13282,7 +13282,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -13431,7 +13431,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -13531,7 +13531,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -13721,12 +13721,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -13739,12 +13739,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -13980,12 +13980,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -14016,12 +14016,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -14039,7 +14039,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -14106,12 +14106,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -14715,7 +14715,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -14787,12 +14787,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -14859,7 +14859,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -14895,12 +14895,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -15026,7 +15026,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -15093,12 +15093,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.929,
+        "prezzo": 1.939,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -15134,12 +15134,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -15224,12 +15224,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -15314,12 +15314,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.169,
         "modalita": "Self"
       }
     ]
@@ -15463,7 +15463,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -15643,12 +15643,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -15715,12 +15715,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -15769,12 +15769,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -15960,12 +15960,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -16176,12 +16176,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.074,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.064,
+        "prezzo": 2.074,
         "modalita": "Self"
       },
       {
@@ -17084,12 +17084,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.169,
+        "prezzo": 2.209,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -17518,12 +17518,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.024,
+        "prezzo": 2.034,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.134,
+        "prezzo": 2.144,
         "modalita": "Self"
       },
       {
@@ -17541,7 +17541,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
@@ -17559,12 +17559,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.139,
         "modalita": "Self"
       },
       {
@@ -17587,7 +17587,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       },
       {
@@ -17605,7 +17605,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -17651,12 +17651,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -17743,12 +17743,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
@@ -17799,7 +17799,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -17840,12 +17840,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -18001,12 +18001,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       },
       {
@@ -18029,7 +18029,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
@@ -18052,7 +18052,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -18085,7 +18085,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -18108,7 +18108,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -18126,12 +18126,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -20738,7 +20738,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
@@ -20748,7 +20748,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -21754,32 +21754,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.01,
+        "prezzo": 2.044,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.01,
+        "prezzo": 2.044,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.098,
+        "prezzo": 2.194,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.098,
+        "prezzo": 2.194,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.17,
+        "prezzo": 2.258,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.17,
+        "prezzo": 2.258,
         "modalita": "Self"
       }
     ]
@@ -22646,12 +22646,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
@@ -23921,22 +23921,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.279,
+        "prezzo": 2.289,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.389,
+        "prezzo": 2.409,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.159,
         "modalita": "Self"
       },
       {
@@ -24091,7 +24091,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
@@ -25287,7 +25287,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.989,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
@@ -25297,7 +25297,7 @@
       },
       {
         "tipo": "Gasolio speciale",
-        "prezzo": 2.099,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -26237,12 +26237,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -26702,12 +26702,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -26774,24 +26774,6 @@
       {
         "tipo": "Gasolio",
         "prezzo": 2.169,
-        "modalita": "Self"
-      }
-    ]
-  },
-  {
-    "nome": "Pompe Bianche",
-    "indirizzo": "VIALE ABRUZZO SNC 66050",
-    "lat": "41.97539415691512",
-    "lng": "14.672203660011292",
-    "prezzi": [
-      {
-        "tipo": "Benzina",
-        "prezzo": 1.929,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "Gasolio",
-        "prezzo": 1.999,
         "modalita": "Self"
       }
     ]
@@ -29435,7 +29417,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
@@ -31898,7 +31880,7 @@
       },
       {
         "tipo": "GPL",
-        "prezzo": 0.689,
+        "prezzo": 0.699,
         "modalita": "Servito"
       },
       {
@@ -32190,12 +32172,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.279,
+        "prezzo": 2.299,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -33691,22 +33673,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36252,7 +36234,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36265,12 +36247,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -36283,12 +36265,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -36306,7 +36288,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -36342,7 +36324,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -36355,12 +36337,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -36378,7 +36360,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -36432,7 +36414,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36445,12 +36427,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -36463,12 +36445,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -36486,7 +36468,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -36653,12 +36635,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.129,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -36671,12 +36653,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36707,12 +36689,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       },
       {
@@ -36766,12 +36748,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36789,7 +36771,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36807,7 +36789,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -36825,7 +36807,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36838,12 +36820,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -36861,7 +36843,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -36928,12 +36910,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -36951,22 +36933,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.299,
+        "prezzo": 2.309,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.219,
+        "prezzo": 2.229,
         "modalita": "Self"
       }
     ]
@@ -37331,7 +37313,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -37385,12 +37367,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -37444,7 +37426,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -37480,7 +37462,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.129,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -37511,12 +37493,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -37534,7 +37516,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -37565,12 +37547,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -37678,12 +37660,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -37750,12 +37732,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -37773,7 +37755,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -37786,12 +37768,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.054,
+        "prezzo": 2.064,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.164,
+        "prezzo": 2.174,
         "modalita": "Self"
       }
     ]
@@ -37804,12 +37786,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -37840,12 +37822,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -37881,7 +37863,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -37894,12 +37876,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -37935,7 +37917,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -37989,7 +37971,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -38002,12 +37984,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -38025,7 +38007,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38074,12 +38056,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -38097,7 +38079,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -38115,7 +38097,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38133,7 +38115,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -38151,7 +38133,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38282,12 +38264,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38305,7 +38287,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -38323,7 +38305,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -38341,7 +38323,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -38354,12 +38336,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -38377,7 +38359,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
@@ -38400,7 +38382,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -38413,12 +38395,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38431,12 +38413,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -38449,12 +38431,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -38467,7 +38449,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
@@ -38485,12 +38467,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -38521,22 +38503,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.379,
+        "prezzo": 2.399,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.259,
+        "prezzo": 2.279,
         "modalita": "Self"
       }
     ]
@@ -38621,12 +38603,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -38675,12 +38657,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38711,12 +38693,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -38747,12 +38729,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -38765,12 +38747,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -38819,12 +38801,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -38837,12 +38819,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -38855,12 +38837,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38891,12 +38873,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -38909,22 +38891,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.399,
+        "prezzo": 2.419,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.299,
+        "prezzo": 2.319,
         "modalita": "Self"
       }
     ]
@@ -38937,12 +38919,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -38955,12 +38937,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -39392,7 +39374,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -39405,12 +39387,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.169,
         "modalita": "Self"
       }
     ]
@@ -39428,7 +39410,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -39441,12 +39423,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.024,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.114,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -39477,12 +39459,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -39513,12 +39495,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -39572,7 +39554,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -39585,7 +39567,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
@@ -39603,12 +39585,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.169,
         "modalita": "Self"
       }
     ]
@@ -39639,12 +39621,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -39657,12 +39639,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -39693,12 +39675,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.059,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -39747,12 +39729,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -39783,12 +39765,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -39806,7 +39788,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -39860,7 +39842,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -39878,7 +39860,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -39914,7 +39896,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -40135,12 +40117,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -40158,7 +40140,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -40189,12 +40171,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -40207,7 +40189,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
@@ -40230,7 +40212,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -40397,12 +40379,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -40433,12 +40415,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -40469,12 +40451,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.929,
+        "prezzo": 1.949,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -40487,12 +40469,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -40505,12 +40487,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -40523,7 +40505,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -40541,12 +40523,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -40559,12 +40541,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -43686,22 +43668,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.979,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -43925,7 +43907,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -44418,7 +44400,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.009,
+        "prezzo": 2.197,
         "modalita": "Self"
       },
       {
@@ -44428,7 +44410,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.297,
         "modalita": "Self"
       },
       {
@@ -44438,7 +44420,7 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.179,
+        "prezzo": 2.397,
         "modalita": "Self"
       }
     ]
@@ -44537,7 +44519,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.054,
+        "prezzo": 2.074,
         "modalita": "Self"
       },
       {
@@ -44547,7 +44529,7 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.154,
+        "prezzo": 2.174,
         "modalita": "Self"
       }
     ]
@@ -49207,7 +49189,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.937,
+        "prezzo": 1.947,
         "modalita": "Self"
       },
       {
@@ -51708,22 +51690,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.239,
+        "prezzo": 2.279,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.349,
+        "prezzo": 2.429,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.109,
+        "prezzo": 2.189,
         "modalita": "Self"
       }
     ]
@@ -53490,22 +53472,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.016,
+        "prezzo": 2.036,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.978,
+        "prezzo": 1.998,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.076,
+        "prezzo": 2.096,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.038,
+        "prezzo": 2.058,
         "modalita": "Self"
       }
     ]
@@ -55587,17 +55569,17 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.179,
+        "prezzo": 2.199,
         "modalita": "Self"
       },
       {
         "tipo": "HVOlution",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -56091,7 +56073,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.085,
+        "prezzo": 2.095,
         "modalita": "Self"
       }
     ]
@@ -56630,12 +56612,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.139,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -56672,32 +56654,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.219,
+        "prezzo": 2.239,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.319,
+        "prezzo": 2.329,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "E-DIESEL",
-        "prezzo": 2.519,
+        "prezzo": 2.529,
         "modalita": "Servito"
       },
       {
         "tipo": "E-DIESEL",
-        "prezzo": 2.319,
+        "prezzo": 2.329,
         "modalita": "Self"
       }
     ]
@@ -57121,12 +57103,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.009,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.049,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -58355,7 +58337,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.939,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
@@ -58365,7 +58347,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
@@ -58375,7 +58357,7 @@
       },
       {
         "tipo": "Benzina WR 100",
-        "prezzo": 2.089,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -58832,22 +58814,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.177,
+        "prezzo": 2.197,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.997,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.287,
+        "prezzo": 2.299,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.087,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -60664,7 +60646,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -60674,7 +60656,7 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.179,
+        "prezzo": 2.199,
         "modalita": "Self"
       }
     ]
@@ -62555,42 +62537,42 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.369,
+        "prezzo": 2.379,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.479,
+        "prezzo": 2.499,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.729,
+        "prezzo": 2.749,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.399,
+        "prezzo": 2.419,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.639,
+        "prezzo": 2.649,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.289,
+        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -65341,12 +65323,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.302,
+        "prezzo": 2.058,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.302,
+        "prezzo": 2.058,
         "modalita": "Self"
       }
     ]
@@ -66618,22 +66600,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.059,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.059,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.169,
+        "prezzo": 2.199,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.169,
+        "prezzo": 2.199,
         "modalita": "Self"
       }
     ]
@@ -67225,22 +67207,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.999,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -68862,12 +68844,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.139,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio Premium",
-        "prezzo": 2.279,
+        "prezzo": 2.319,
         "modalita": "Self"
       }
     ]
@@ -69809,17 +69791,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio Premium",
-        "prezzo": 2.219,
+        "prezzo": 2.249,
         "modalita": "Self"
       }
     ]
@@ -71072,12 +71054,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.064,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -71451,17 +71433,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.939,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio Premium",
-        "prezzo": 2.259,
+        "prezzo": 2.249,
         "modalita": "Self"
       }
     ]
@@ -73548,22 +73530,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.264,
+        "prezzo": 2.274,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.024,
+        "prezzo": 2.034,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.364,
+        "prezzo": 2.384,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.124,
+        "prezzo": 2.144,
         "modalita": "Self"
       },
       {
@@ -74074,12 +74056,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -75399,12 +75381,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -76866,7 +76848,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -77077,7 +77059,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -77344,7 +77326,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -78684,12 +78666,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -80164,12 +80146,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -81543,12 +81525,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.939,
+        "prezzo": 1.949,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -81589,7 +81571,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -82256,12 +82238,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.969,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Servito"
       },
       {
@@ -82694,42 +82676,42 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.539,
+        "prezzo": 1.53,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.539,
+        "prezzo": 1.53,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.559,
+        "prezzo": 1.582,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.559,
+        "prezzo": 1.582,
         "modalita": "Self"
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 1.659,
+        "prezzo": 1.682,
         "modalita": "Servito"
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 1.659,
+        "prezzo": 1.682,
         "modalita": "Self"
       },
       {
         "tipo": "HVOlution",
-        "prezzo": 1.559,
+        "prezzo": 1.582,
         "modalita": "Servito"
       },
       {
         "tipo": "HVOlution",
-        "prezzo": 1.559,
+        "prezzo": 1.582,
         "modalita": "Self"
       }
     ]
@@ -83078,32 +83060,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.533,
+        "prezzo": 1.528,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.533,
+        "prezzo": 1.528,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.548,
+        "prezzo": 1.578,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.548,
+        "prezzo": 1.578,
         "modalita": "Self"
       },
       {
         "tipo": "HVOlution",
-        "prezzo": 1.548,
+        "prezzo": 1.578,
         "modalita": "Servito"
       },
       {
         "tipo": "HVOlution",
-        "prezzo": 1.548,
+        "prezzo": 1.578,
         "modalita": "Self"
       }
     ]
@@ -83177,12 +83159,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.557,
+        "prezzo": 1.583,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.557,
+        "prezzo": 1.583,
         "modalita": "Self"
       },
       {
@@ -83192,12 +83174,12 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 1.757,
+        "prezzo": 1.783,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 1.757,
+        "prezzo": 1.783,
         "modalita": "Self"
       },
       {
@@ -83331,17 +83313,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.149,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio Premium",
-        "prezzo": 2.259,
+        "prezzo": 2.289,
         "modalita": "Self"
       }
     ]
@@ -84079,12 +84061,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.109,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -86201,12 +86183,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -86913,22 +86895,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.899,
+        "prezzo": 1.999,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.899,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.998,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.998,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -86946,7 +86928,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -87199,12 +87181,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -87299,12 +87281,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.919,
+        "prezzo": 1.929,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       }
     ]
@@ -87752,7 +87734,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -88285,22 +88267,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.027,
+        "prezzo": 2.037,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.947,
+        "prezzo": 1.957,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.109,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.029,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
@@ -88657,22 +88639,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.543,
+        "prezzo": 1.527,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.543,
+        "prezzo": 1.527,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.549,
+        "prezzo": 1.579,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.549,
+        "prezzo": 1.579,
         "modalita": "Self"
       }
     ]
@@ -89211,12 +89193,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.329,
+        "prezzo": 2.279,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.149,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -89231,12 +89213,12 @@
       },
       {
         "tipo": "Gasolio speciale",
-        "prezzo": 2.359,
+        "prezzo": 2.379,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio speciale",
-        "prezzo": 2.179,
+        "prezzo": 2.199,
         "modalita": "Self"
       }
     ]
@@ -91320,12 +91302,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -91985,32 +91967,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.189,
+        "prezzo": 2.219,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.319,
+        "prezzo": 2.349,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.129,
+        "prezzo": 2.159,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.499,
+        "prezzo": 2.529,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.309,
+        "prezzo": 2.339,
         "modalita": "Self"
       }
     ]
@@ -92056,7 +92038,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.999,
+        "prezzo": 2.029,
         "modalita": "Self"
       }
     ]
@@ -93601,22 +93583,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.069,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.169,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.169,
         "modalita": "Self"
       }
     ]
@@ -93859,32 +93841,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.149,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.149,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.269,
+        "prezzo": 2.289,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.269,
+        "prezzo": 2.289,
         "modalita": "Self"
       }
     ]
@@ -94014,22 +93996,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.279,
+        "prezzo": 2.289,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.379,
+        "prezzo": 2.384,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.124,
+        "prezzo": 2.134,
         "modalita": "Self"
       },
       {
@@ -94039,22 +94021,22 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.629,
+        "prezzo": 2.634,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.424,
+        "prezzo": 2.434,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.549,
+        "prezzo": 2.559,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.329,
+        "prezzo": 2.339,
         "modalita": "Self"
       }
     ]
@@ -94274,34 +94256,6 @@
       {
         "tipo": "Gasolio",
         "prezzo": 2.159,
-        "modalita": "Self"
-      }
-    ]
-  },
-  {
-    "nome": "Agip Eni",
-    "indirizzo": "via Canaletta 3 35129",
-    "lat": "45.4169565452905",
-    "lng": "11.935764402151108",
-    "prezzi": [
-      {
-        "tipo": "Benzina",
-        "prezzo": 1.834,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "Gasolio",
-        "prezzo": 1.929,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "Blue Diesel",
-        "prezzo": 2.029,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "HVOlution",
-        "prezzo": 1.929,
         "modalita": "Self"
       }
     ]
@@ -95534,12 +95488,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -97284,22 +97238,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.999,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.929,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.139,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -97833,7 +97787,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
@@ -97843,7 +97797,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -101150,32 +101104,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.058,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.058,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.158,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.158,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.239,
+        "prezzo": 2.278,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.239,
+        "prezzo": 2.278,
         "modalita": "Self"
       }
     ]
@@ -101809,7 +101763,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.925,
+        "prezzo": 1.935,
         "modalita": "Self"
       },
       {
@@ -103408,22 +103362,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
         "tipo": "Metano",
-        "prezzo": 1.689,
+        "prezzo": 1.699,
         "modalita": "Servito"
       },
       {
         "tipo": "GPL",
-        "prezzo": 0.724,
+        "prezzo": 0.719,
         "modalita": "Servito"
       }
     ]
@@ -105076,22 +105030,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.989,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.089,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -107079,12 +107033,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.219,
+        "prezzo": 2.229,
         "modalita": "Self"
       },
       {
@@ -108315,22 +108269,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.339,
+        "prezzo": 2.349,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.439,
+        "prezzo": 2.449,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.189,
+        "prezzo": 2.199,
         "modalita": "Self"
       },
       {
@@ -108345,27 +108299,27 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.689,
+        "prezzo": 2.699,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.489,
+        "prezzo": 2.499,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.609,
+        "prezzo": 2.619,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.389,
+        "prezzo": 2.399,
         "modalita": "Self"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.189,
+        "prezzo": 2.199,
         "modalita": "Self"
       }
     ]
@@ -108383,7 +108337,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -108542,22 +108496,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.309,
+        "prezzo": 2.329,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.516,
+        "prezzo": 2.536,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.306,
+        "prezzo": 2.326,
         "modalita": "Self"
       }
     ]
@@ -109403,12 +109357,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.945,
+        "prezzo": 1.965,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.075,
+        "prezzo": 2.085,
         "modalita": "Self"
       },
       {
@@ -109884,12 +109838,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -110735,7 +110689,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -112321,12 +112275,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.939,
+        "prezzo": 1.949,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       }
     ]
@@ -112978,12 +112932,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -115272,7 +115226,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -117167,6 +117121,44 @@
     ]
   },
   {
+    "nome": "Tamoil",
+    "indirizzo": "Autostrada A23 UDINE-CARNIA-TARVISIO, Km. 37,1, dir. Est - 33010",
+    "lat": "46.1881498281879",
+    "lng": "13.116044998168945",
+    "prezzi": [
+      {
+        "tipo": "Benzina",
+        "prezzo": 2.217,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Benzina",
+        "prezzo": 2.089,
+        "modalita": "Self"
+      },
+      {
+        "tipo": "Gasolio",
+        "prezzo": 2.325,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Gasolio",
+        "prezzo": 2.197,
+        "modalita": "Self"
+      },
+      {
+        "tipo": "Benzina WR 100",
+        "prezzo": 2.417,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Benzina WR 100",
+        "prezzo": 2.289,
+        "modalita": "Self"
+      }
+    ]
+  },
+  {
     "nome": "Ego",
     "indirizzo": "LOCALITA' BARABASCA SP462 KM 16+464 SNC 29017",
     "lat": "44.96445253458959",
@@ -117753,12 +117745,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.919,
+        "prezzo": 1.929,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -118238,7 +118230,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.149,
+        "prezzo": 2.159,
         "modalita": "Self"
       }
     ]
@@ -118302,7 +118294,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -118325,7 +118317,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -118343,7 +118335,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -118397,12 +118389,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -120535,7 +120527,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       }
     ]
@@ -121045,12 +121037,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
@@ -121068,12 +121060,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -121086,12 +121078,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -121375,7 +121367,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Servito"
       }
     ]
@@ -121470,12 +121462,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.919,
+        "prezzo": 1.929,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.019,
+        "prezzo": 2.039,
         "modalita": "Self"
       }
     ]
@@ -122698,7 +122690,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.158,
+        "prezzo": 2.187,
         "modalita": "Self"
       },
       {
@@ -122723,7 +122715,7 @@
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.128,
+        "prezzo": 2.157,
         "modalita": "Self"
       }
     ]
@@ -122741,7 +122733,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.044,
         "modalita": "Self"
       },
       {
@@ -122751,7 +122743,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.111,
+        "prezzo": 2.154,
         "modalita": "Self"
       },
       {
@@ -122761,7 +122753,7 @@
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.261,
+        "prezzo": 2.304,
         "modalita": "Self"
       }
     ]
@@ -124167,7 +124159,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -124185,12 +124177,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
@@ -124226,7 +124218,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -124368,22 +124360,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.359,
+        "prezzo": 2.369,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.169,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.509,
+        "prezzo": 2.519,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.309,
+        "prezzo": 2.319,
         "modalita": "Self"
       }
     ]
@@ -125780,22 +125772,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.254,
+        "prezzo": 2.259,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.004,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.354,
+        "prezzo": 2.379,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.124,
         "modalita": "Self"
       },
       {
@@ -126252,37 +126244,37 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.209,
+        "prezzo": 2.239,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.289,
+        "prezzo": 2.329,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.479,
+        "prezzo": 2.509,
         "modalita": "Servito"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.289,
+        "prezzo": 2.329,
         "modalita": "Servito"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.079,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -126468,22 +126460,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.049,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.149,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -126524,27 +126516,27 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 2.039,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.879,
+        "prezzo": 1.939,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.139,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.949,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Metano",
-        "prezzo": 1.489,
+        "prezzo": 1.589,
         "modalita": "Servito"
       },
       {
@@ -127591,12 +127583,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.987,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.987,
         "modalita": "Self"
       },
       {
@@ -127611,12 +127603,12 @@
       },
       {
         "tipo": "HVO100",
-        "prezzo": 2.019,
+        "prezzo": 2.039,
         "modalita": "Servito"
       },
       {
         "tipo": "HVO100",
-        "prezzo": 2.019,
+        "prezzo": 2.039,
         "modalita": "Self"
       }
     ]
@@ -129715,7 +129707,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.109,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
@@ -129725,12 +129717,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.199,
+        "prezzo": 2.219,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -130375,12 +130367,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -131257,7 +131249,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -131267,7 +131259,7 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.179,
+        "prezzo": 2.199,
         "modalita": "Self"
       },
       {
@@ -131453,22 +131445,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.047,
+        "prezzo": 2.057,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.947,
+        "prezzo": 1.957,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.146,
+        "prezzo": 2.166,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.046,
+        "prezzo": 2.066,
         "modalita": "Self"
       }
     ]
@@ -131517,12 +131509,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -132441,22 +132433,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.049,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.149,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -132553,12 +132545,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.085,
+        "prezzo": 2.095,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.075,
+        "prezzo": 2.085,
         "modalita": "Self"
       },
       {
@@ -134289,22 +134281,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.269,
+        "prezzo": 2.279,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.374,
+        "prezzo": 2.384,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.149,
+        "prezzo": 2.154,
         "modalita": "Self"
       },
       {
@@ -134314,12 +134306,12 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.644,
+        "prezzo": 2.654,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.449,
+        "prezzo": 2.454,
         "modalita": "Self"
       }
     ]
@@ -135959,7 +135951,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.01,
+        "prezzo": 2,
         "modalita": "Self"
       },
       {
@@ -135969,7 +135961,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -135984,7 +135976,7 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.179,
+        "prezzo": 2.199,
         "modalita": "Self"
       }
     ]
@@ -137249,12 +137241,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -137295,12 +137287,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -138447,12 +138439,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.039,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.149,
         "modalita": "Servito"
       },
       {
@@ -138816,22 +138808,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.264,
+        "prezzo": 2.274,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.044,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.369,
+        "prezzo": 2.379,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.144,
+        "prezzo": 2.149,
         "modalita": "Self"
       },
       {
@@ -138841,17 +138833,17 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.619,
+        "prezzo": 2.629,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.444,
+        "prezzo": 2.449,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.514,
+        "prezzo": 2.524,
         "modalita": "Servito"
       }
     ]
@@ -138864,22 +138856,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.279,
+        "prezzo": 2.284,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.024,
+        "prezzo": 2.034,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.384,
+        "prezzo": 2.394,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.134,
+        "prezzo": 2.139,
         "modalita": "Self"
       },
       {
@@ -138889,27 +138881,27 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.634,
+        "prezzo": 2.644,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.434,
+        "prezzo": 2.439,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.549,
+        "prezzo": 2.554,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.324,
+        "prezzo": 2.334,
         "modalita": "Self"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.134,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -139293,12 +139285,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -141172,12 +141164,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.199,
+        "prezzo": 2.239,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.089,
         "modalita": "Self"
       },
       {
@@ -141187,12 +141179,12 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.569,
+        "prezzo": 2.609,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.419,
+        "prezzo": 2.459,
         "modalita": "Self"
       },
       {
@@ -141586,12 +141578,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.289,
+        "prezzo": 2.309,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.116,
         "modalita": "Self"
       },
       {
@@ -141611,22 +141603,22 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.389,
+        "prezzo": 2.409,
         "modalita": "Servito"
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.189,
+        "prezzo": 2.216,
         "modalita": "Self"
       },
       {
         "tipo": "HVOlution",
-        "prezzo": 2.289,
+        "prezzo": 2.309,
         "modalita": "Servito"
       },
       {
         "tipo": "HVOlution",
-        "prezzo": 2.089,
+        "prezzo": 2.116,
         "modalita": "Self"
       }
     ]
@@ -142697,7 +142689,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -144319,7 +144311,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
@@ -145979,12 +145971,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.299,
+        "prezzo": 2.319,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -146363,12 +146355,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -146386,7 +146378,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -146417,12 +146409,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -151538,22 +151530,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.109,
+        "prezzo": 2.119,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.109,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -152336,12 +152328,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.929,
+        "prezzo": 1.919,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -152627,22 +152619,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.199,
+        "prezzo": 2.249,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.199,
+        "prezzo": 2.249,
         "modalita": "Self"
       }
     ]
@@ -153038,12 +153030,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -154589,7 +154581,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -156384,7 +156376,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Servito"
       }
     ]
@@ -157185,7 +157177,7 @@
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.289,
+        "prezzo": 2.139,
         "modalita": "Servito"
       },
       {
@@ -158006,7 +157998,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Servito"
       },
       {
@@ -158016,7 +158008,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.169,
         "modalita": "Servito"
       },
       {
@@ -158894,22 +158886,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.169,
+        "prezzo": 2.179,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.279,
+        "prezzo": 2.289,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -159419,12 +159411,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
@@ -160748,7 +160740,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -160758,7 +160750,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
@@ -160949,7 +160941,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -162261,27 +162253,27 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.947,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.084,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.082,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.284,
+        "prezzo": 2.299,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.282,
+        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -162705,7 +162697,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.158,
+        "prezzo": 2.187,
         "modalita": "Self"
       },
       {
@@ -162743,7 +162735,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.118,
+        "prezzo": 2.147,
         "modalita": "Self"
       },
       {
@@ -162911,7 +162903,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
@@ -162929,12 +162921,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -162947,12 +162939,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.149,
+        "prezzo": 2.159,
         "modalita": "Self"
       },
       {
@@ -163828,12 +163820,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -163894,12 +163886,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -164036,7 +164028,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
@@ -164046,7 +164038,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.044,
         "modalita": "Self"
       },
       {
@@ -164056,7 +164048,7 @@
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.249,
+        "prezzo": 2.244,
         "modalita": "Self"
       }
     ]
@@ -165413,7 +165405,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.009,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -165423,7 +165415,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.109,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -167449,7 +167441,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
@@ -167459,7 +167451,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.044,
         "modalita": "Self"
       },
       {
@@ -167469,7 +167461,7 @@
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.249,
+        "prezzo": 2.244,
         "modalita": "Self"
       }
     ]
@@ -169058,22 +169050,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.89,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -170927,22 +170919,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.259,
+        "prezzo": 2.279,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.109,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio Premium",
-        "prezzo": 2.359,
+        "prezzo": 2.379,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio Premium",
-        "prezzo": 2.209,
+        "prezzo": 2.229,
         "modalita": "Self"
       }
     ]
@@ -171799,7 +171791,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
@@ -171809,7 +171801,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
@@ -171824,7 +171816,7 @@
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.279,
+        "prezzo": 2.269,
         "modalita": "Self"
       }
     ]
@@ -173788,7 +173780,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -174537,7 +174529,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.074,
+        "prezzo": 2.094,
         "modalita": "Self"
       }
     ]
@@ -175599,12 +175591,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -177486,12 +177478,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.139,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.419,
+        "prezzo": 2.439,
         "modalita": "Self"
       }
     ]
@@ -177542,12 +177534,12 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.379,
+        "prezzo": 2.499,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.099,
+        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -178926,12 +178918,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.019,
+        "prezzo": 2.049,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.999,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
@@ -183012,7 +183004,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
@@ -185005,12 +184997,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -185748,17 +185740,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.899,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.989,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Metano",
-        "prezzo": 1.489,
+        "prezzo": 1.589,
         "modalita": "Servito"
       },
       {
@@ -186099,12 +186091,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       },
       {
@@ -186127,7 +186119,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -188002,7 +187994,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -188012,7 +188004,7 @@
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.289,
+        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -189508,12 +189500,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -192804,9 +192796,29 @@
         "modalita": "Self"
       },
       {
+        "tipo": "Gasolio",
+        "prezzo": 2.299,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Gasolio",
+        "prezzo": 2.089,
+        "modalita": "Self"
+      },
+      {
         "tipo": "GPL",
         "prezzo": 0.769,
         "modalita": "Servito"
+      },
+      {
+        "tipo": "Blue Diesel",
+        "prezzo": 2.399,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Blue Diesel",
+        "prezzo": 2.189,
+        "modalita": "Self"
       }
     ]
   },
@@ -192856,12 +192868,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.039,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.139,
         "modalita": "Servito"
       },
       {
@@ -194167,7 +194179,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.158,
+        "prezzo": 2.187,
         "modalita": "Self"
       },
       {
@@ -194177,7 +194189,7 @@
       },
       {
         "tipo": "Gasolio speciale",
-        "prezzo": 2.308,
+        "prezzo": 2.337,
         "modalita": "Self"
       }
     ]
@@ -194200,12 +194212,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.169,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.169,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -194442,7 +194454,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.189,
         "modalita": "Servito"
       },
       {
@@ -194622,7 +194634,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -194831,32 +194843,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.289,
+        "prezzo": 2.296,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.049,
+        "prezzo": 2.056,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.382,
+        "prezzo": 2.416,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.142,
+        "prezzo": 2.176,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.482,
+        "prezzo": 2.516,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.242,
+        "prezzo": 2.276,
         "modalita": "Self"
       }
     ]
@@ -196955,7 +196967,7 @@
       },
       {
         "tipo": "GPL",
-        "prezzo": 0.719,
+        "prezzo": 0.779,
         "modalita": "Servito"
       },
       {
@@ -198814,22 +198826,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.189,
+        "prezzo": 2.199,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.299,
+        "prezzo": 2.309,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -199678,12 +199690,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -201247,7 +201259,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.049,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
@@ -201265,7 +201277,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -203126,7 +203138,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -204443,17 +204455,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.289,
+        "prezzo": 2.294,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.044,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.384,
+        "prezzo": 2.389,
         "modalita": "Servito"
       },
       {
@@ -204468,7 +204480,7 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.634,
+        "prezzo": 2.639,
         "modalita": "Servito"
       },
       {
@@ -204478,12 +204490,12 @@
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.559,
+        "prezzo": 2.564,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.339,
+        "prezzo": 2.344,
         "modalita": "Self"
       }
     ]
@@ -204717,17 +204729,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.289,
+        "prezzo": 2.294,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.044,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.384,
+        "prezzo": 2.389,
         "modalita": "Servito"
       },
       {
@@ -204742,7 +204754,7 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.634,
+        "prezzo": 2.639,
         "modalita": "Servito"
       },
       {
@@ -204752,12 +204764,12 @@
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.559,
+        "prezzo": 2.564,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.339,
+        "prezzo": 2.344,
         "modalita": "Self"
       }
     ]
@@ -205291,7 +205303,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.274,
+        "prezzo": 2.284,
         "modalita": "Servito"
       },
       {
@@ -205301,12 +205313,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.379,
+        "prezzo": 2.389,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.134,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
@@ -205316,12 +205328,12 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.629,
+        "prezzo": 2.639,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.384,
+        "prezzo": 2.394,
         "modalita": "Self"
       }
     ]
@@ -206456,32 +206468,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.189,
+        "prezzo": 2.199,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.259,
+        "prezzo": 2.279,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.459,
+        "prezzo": 2.479,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.259,
+        "prezzo": 2.279,
         "modalita": "Self"
       }
     ]
@@ -206494,12 +206506,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.159,
         "modalita": "Servito"
       }
     ]
@@ -207658,22 +207670,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.169,
+        "prezzo": 2.209,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.259,
+        "prezzo": 2.349,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.149,
         "modalita": "Self"
       },
       {
@@ -209505,12 +209517,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -213026,12 +213038,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.269,
+        "prezzo": 2.274,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.024,
         "modalita": "Self"
       },
       {
@@ -213051,12 +213063,12 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.539,
+        "prezzo": 2.544,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.319,
+        "prezzo": 2.324,
         "modalita": "Self"
       },
       {
@@ -213923,12 +213935,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.957,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.957,
         "modalita": "Self"
       },
       {
@@ -214957,17 +214969,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.289,
+        "prezzo": 2.269,
         "modalita": "Self"
       }
     ]
@@ -215879,22 +215891,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.179,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.019,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
@@ -219069,12 +219081,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -220688,7 +220700,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.054,
+        "prezzo": 2.074,
         "modalita": "Self"
       },
       {
@@ -220698,7 +220710,7 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.174,
+        "prezzo": 2.194,
         "modalita": "Self"
       }
     ]
@@ -221198,7 +221210,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -224524,12 +224536,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.119,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -224954,7 +224966,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -225910,6 +225922,26 @@
     "lng": "10.8261527121067",
     "prezzi": [
       {
+        "tipo": "Benzina",
+        "prezzo": 2.399,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Benzina",
+        "prezzo": 2.079,
+        "modalita": "Self"
+      },
+      {
+        "tipo": "Gasolio",
+        "prezzo": 2.449,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Gasolio",
+        "prezzo": 2.129,
+        "modalita": "Self"
+      },
+      {
         "tipo": "GPL",
         "prezzo": 0.899,
         "modalita": "Servito"
@@ -226020,7 +226052,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -226035,7 +226067,7 @@
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.289,
+        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -227571,12 +227603,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.043,
+        "prezzo": 2.063,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.043,
+        "prezzo": 2.063,
         "modalita": "Self"
       },
       {
@@ -227990,22 +228022,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.975,
+        "prezzo": 1.98,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.975,
+        "prezzo": 1.98,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.075,
+        "prezzo": 2.09,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.075,
+        "prezzo": 2.09,
         "modalita": "Self"
       },
       {
@@ -228300,22 +228332,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.025,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.025,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.098,
+        "prezzo": 2.105,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.098,
+        "prezzo": 2.105,
         "modalita": "Self"
       },
       {
@@ -229615,7 +229647,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.987,
+        "prezzo": 1.997,
         "modalita": "Self"
       },
       {
@@ -229625,7 +229657,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.087,
+        "prezzo": 2.097,
         "modalita": "Self"
       },
       {
@@ -229645,7 +229677,7 @@
       },
       {
         "tipo": "Benzina speciale",
-        "prezzo": 2.137,
+        "prezzo": 2.147,
         "modalita": "Self"
       },
       {
@@ -229655,7 +229687,7 @@
       },
       {
         "tipo": "Gasolio speciale",
-        "prezzo": 2.187,
+        "prezzo": 2.197,
         "modalita": "Self"
       }
     ]
@@ -230067,42 +230099,42 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.528,
+        "prezzo": 1.538,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.528,
+        "prezzo": 1.538,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.553,
+        "prezzo": 1.568,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.553,
+        "prezzo": 1.568,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 1.753,
+        "prezzo": 1.768,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 1.753,
+        "prezzo": 1.768,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 1.728,
+        "prezzo": 1.738,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 1.728,
+        "prezzo": 1.738,
         "modalita": "Self"
       }
     ]
@@ -230191,22 +230223,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.249,
+        "prezzo": 2.269,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.359,
+        "prezzo": 2.389,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.149,
+        "prezzo": 2.179,
         "modalita": "Self"
       },
       {
@@ -230216,27 +230248,27 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.609,
+        "prezzo": 2.639,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.449,
+        "prezzo": 2.479,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.519,
+        "prezzo": 2.539,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.339,
+        "prezzo": 2.359,
         "modalita": "Self"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.149,
+        "prezzo": 2.179,
         "modalita": "Self"
       }
     ]
@@ -230611,12 +230643,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
@@ -231406,12 +231438,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -235356,12 +235388,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.109,
         "modalita": "Self"
       },
       {
@@ -235389,12 +235421,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.189,
+        "prezzo": 2.219,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -236865,22 +236897,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.975,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.975,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.048,
+        "prezzo": 2.065,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.048,
+        "prezzo": 2.065,
         "modalita": "Self"
       },
       {
@@ -237338,44 +237370,6 @@
       {
         "tipo": "Supreme Diesel",
         "prezzo": 2.298,
-        "modalita": "Self"
-      }
-    ]
-  },
-  {
-    "nome": "Q8",
-    "indirizzo": "FOGLIENSE KM. 41+371 SN 61026",
-    "lat": "43.724867876689174",
-    "lng": "12.408406813491805",
-    "prezzi": [
-      {
-        "tipo": "Benzina",
-        "prezzo": 2.189,
-        "modalita": "Servito"
-      },
-      {
-        "tipo": "Benzina",
-        "prezzo": 1.989,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "Gasolio",
-        "prezzo": 2.299,
-        "modalita": "Servito"
-      },
-      {
-        "tipo": "Gasolio",
-        "prezzo": 2.099,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "Hi-Q Diesel",
-        "prezzo": 2.499,
-        "modalita": "Servito"
-      },
-      {
-        "tipo": "Hi-Q Diesel",
-        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -238373,12 +238367,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -239377,12 +239371,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -239687,7 +239681,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -240395,7 +240389,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -241856,12 +241850,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.369,
+        "prezzo": 2.329,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.169,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -243173,7 +243167,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.017,
+        "prezzo": 2.037,
         "modalita": "Self"
       },
       {
@@ -243183,7 +243177,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.077,
+        "prezzo": 2.097,
         "modalita": "Self"
       },
       {
@@ -243193,7 +243187,7 @@
       },
       {
         "tipo": "HVO100",
-        "prezzo": 2.067,
+        "prezzo": 2.077,
         "modalita": "Self"
       }
     ]
@@ -245191,32 +245185,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.449,
+        "prezzo": 2.469,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.569,
+        "prezzo": 2.579,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.219,
+        "prezzo": 2.229,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.819,
+        "prezzo": 2.829,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.719,
+        "prezzo": 2.739,
         "modalita": "Servito"
       }
     ]
@@ -247162,32 +247156,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.499,
+        "prezzo": 2.509,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.559,
+        "prezzo": 2.569,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.179,
+        "prezzo": 2.189,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.809,
+        "prezzo": 2.819,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.479,
+        "prezzo": 2.489,
         "modalita": "Self"
       }
     ]
@@ -248142,22 +248136,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.049,
+        "prezzo": 2.069,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.149,
+        "prezzo": 2.169,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.069,
         "modalita": "Self"
       },
       {
@@ -250018,7 +250012,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -250178,7 +250172,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.939,
         "modalita": "Self"
       },
       {
@@ -250188,7 +250182,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 1.999,
         "modalita": "Self"
       }
     ]
@@ -250686,22 +250680,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.189,
+        "prezzo": 2.209,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.009,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.289,
+        "prezzo": 2.319,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.129,
+        "prezzo": 2.159,
         "modalita": "Self"
       }
     ]
@@ -251374,7 +251368,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -253897,12 +253891,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.057,
+        "prezzo": 2.077,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.057,
+        "prezzo": 2.077,
         "modalita": "Self"
       }
     ]
@@ -253991,29 +253985,6 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
-        "modalita": "Self"
-      }
-    ]
-  },
-  {
-    "nome": "Esso",
-    "indirizzo": "EUROPA SNC 07021",
-    "lat": "41.0779889",
-    "lng": "9.3901389",
-    "prezzi": [
-      {
-        "tipo": "Benzina",
-        "prezzo": 1.999,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "Gasolio",
-        "prezzo": 2.099,
-        "modalita": "Self"
-      },
-      {
-        "tipo": "HVO",
         "prezzo": 2.069,
         "modalita": "Self"
       }
@@ -254124,12 +254095,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.179,
+        "prezzo": 2.199,
         "modalita": "Self"
       },
       {
@@ -254503,12 +254474,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -255090,7 +255061,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.6,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
@@ -255100,7 +255071,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.5,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -255184,7 +255155,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.898,
+        "prezzo": 1.888,
         "modalita": "Self"
       },
       {
@@ -255202,7 +255173,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.929,
+        "prezzo": 1.898,
         "modalita": "Self"
       },
       {
@@ -256717,22 +256688,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.179,
+        "prezzo": 2.189,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.269,
+        "prezzo": 2.289,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -257082,12 +257053,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.085,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.085,
         "modalita": "Self"
       }
     ]
@@ -257156,22 +257127,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.975,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.975,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.048,
+        "prezzo": 2.065,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.048,
+        "prezzo": 2.065,
         "modalita": "Self"
       },
       {
@@ -259443,7 +259414,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.999,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -260691,22 +260662,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.159,
+        "prezzo": 2.189,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.249,
+        "prezzo": 2.269,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -261266,12 +261237,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.909,
+        "prezzo": 1.949,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.909,
+        "prezzo": 1.949,
         "modalita": "Self"
       },
       {
@@ -262316,7 +262287,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Servito"
       },
       {
@@ -263619,7 +263590,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.079,
         "modalita": "Self"
       }
     ]
@@ -264073,32 +264044,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.945,
+        "prezzo": 1.995,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.945,
+        "prezzo": 1.995,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.03,
+        "prezzo": 2.11,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.03,
+        "prezzo": 2.11,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.23,
+        "prezzo": 2.31,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.23,
+        "prezzo": 2.31,
         "modalita": "Self"
       }
     ]
@@ -265366,7 +265337,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -265506,12 +265477,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.056,
+        "prezzo": 2.066,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.146,
+        "prezzo": 2.166,
         "modalita": "Self"
       }
     ]
@@ -265809,12 +265780,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.139,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.139,
         "modalita": "Self"
       }
     ]
@@ -265893,22 +265864,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.299,
+        "prezzo": 2.319,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.399,
+        "prezzo": 2.419,
         "modalita": "Servito"
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.179,
+        "prezzo": 2.199,
         "modalita": "Self"
       }
     ]
@@ -266648,12 +266619,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.219,
+        "prezzo": 2.309,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.109,
         "modalita": "Self"
       },
       {
@@ -266890,12 +266861,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.384,
+        "prezzo": 2.394,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.124,
+        "prezzo": 2.134,
         "modalita": "Self"
       },
       {
@@ -266905,12 +266876,12 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.634,
+        "prezzo": 2.644,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.424,
+        "prezzo": 2.434,
         "modalita": "Self"
       }
     ]
@@ -267022,12 +266993,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.999,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.099,
         "modalita": "Servito"
       }
     ]
@@ -267165,12 +267136,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.019,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.139,
+        "prezzo": 2.149,
         "modalita": "Self"
       }
     ]
@@ -267221,12 +267192,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -268927,22 +268898,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.979,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.109,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -271584,12 +271555,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.987,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.987,
         "modalita": "Self"
       },
       {
@@ -271668,7 +271639,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.977,
+        "prezzo": 1.987,
         "modalita": "Self"
       },
       {
@@ -271678,7 +271649,7 @@
       },
       {
         "tipo": "Benzina speciale",
-        "prezzo": 2.077,
+        "prezzo": 2.087,
         "modalita": "Self"
       },
       {
@@ -271869,12 +271840,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -273144,12 +273115,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.096,
+        "prezzo": 2.116,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.096,
+        "prezzo": 2.116,
         "modalita": "Self"
       },
       {
@@ -274403,12 +274374,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.947,
+        "prezzo": 1.898,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.057,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -276919,12 +276890,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -277917,7 +277888,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       }
     ]
@@ -282011,12 +281982,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.384,
+        "prezzo": 2.394,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.124,
+        "prezzo": 2.034,
         "modalita": "Self"
       },
       {
@@ -282031,7 +282002,7 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.424,
+        "prezzo": 2.434,
         "modalita": "Self"
       },
       {
@@ -283871,12 +283842,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.319,
+        "prezzo": 2.359,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -284409,12 +284380,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -285889,12 +285860,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.199,
+        "prezzo": 2.249,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.149,
         "modalita": "Self"
       },
       {
@@ -286574,12 +286545,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -286940,22 +286911,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.289,
+        "prezzo": 2.299,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.289,
+        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -289267,12 +289238,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.078,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.078,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -289673,22 +289644,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.968,
+        "prezzo": 1.899,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.968,
+        "prezzo": 1.899,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.098,
+        "prezzo": 2.038,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.098,
+        "prezzo": 2.038,
         "modalita": "Self"
       },
       {
@@ -290003,22 +289974,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.329,
+        "prezzo": 2.339,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.579,
+        "prezzo": 2.589,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.419,
+        "prezzo": 2.429,
         "modalita": "Self"
       },
       {
@@ -290033,7 +290004,7 @@
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -290915,7 +290886,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Servito"
       },
       {
@@ -290951,22 +290922,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.089,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.089,
         "modalita": "Self"
       },
       {
@@ -293104,12 +293075,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -293244,22 +293215,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.289,
+        "prezzo": 2.309,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.409,
+        "prezzo": 2.429,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.179,
         "modalita": "Self"
       },
       {
@@ -293269,27 +293240,27 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.659,
+        "prezzo": 2.679,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.459,
+        "prezzo": 2.479,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.559,
+        "prezzo": 2.579,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.339,
+        "prezzo": 2.359,
         "modalita": "Self"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.159,
+        "prezzo": 2.179,
         "modalita": "Self"
       }
     ]
@@ -294753,12 +294724,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -295005,12 +294976,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.069,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -296152,12 +296123,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -297051,22 +297022,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.289,
+        "prezzo": 2.309,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.039,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.409,
+        "prezzo": 2.429,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.159,
+        "prezzo": 2.179,
         "modalita": "Self"
       },
       {
@@ -297076,27 +297047,27 @@
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.659,
+        "prezzo": 2.679,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.459,
+        "prezzo": 2.479,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.559,
+        "prezzo": 2.579,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.339,
+        "prezzo": 2.359,
         "modalita": "Self"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.159,
+        "prezzo": 2.179,
         "modalita": "Self"
       }
     ]
@@ -303842,22 +303813,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.929,
+        "prezzo": 1.949,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.929,
+        "prezzo": 1.949,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.049,
         "modalita": "Self"
       }
     ]
@@ -305096,12 +305067,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -305821,22 +305792,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.139,
+        "prezzo": 2.189,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.229,
+        "prezzo": 2.289,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.039,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -309277,22 +309248,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.298,
+        "prezzo": 2.309,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.998,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.388,
+        "prezzo": 2.409,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.088,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -309983,12 +309954,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -317685,12 +317656,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.189,
+        "prezzo": 2.219,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -317782,12 +317753,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -320158,12 +320129,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.939,
+        "prezzo": 1.949,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.049,
+        "prezzo": 2.059,
         "modalita": "Self"
       }
     ]
@@ -324203,7 +324174,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.949,
         "modalita": "Self"
       },
       {
@@ -324213,7 +324184,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.084,
+        "prezzo": 2.104,
         "modalita": "Self"
       },
       {
@@ -324223,7 +324194,7 @@
       },
       {
         "tipo": "Blue Diesel",
-        "prezzo": 2.184,
+        "prezzo": 2.204,
         "modalita": "Self"
       }
     ]
@@ -324393,7 +324364,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.048,
+        "prezzo": 2.058,
         "modalita": "Self"
       },
       {
@@ -324403,7 +324374,7 @@
       },
       {
         "tipo": "HVO Future",
-        "prezzo": 2.048,
+        "prezzo": 2.058,
         "modalita": "Self"
       }
     ]
@@ -325424,12 +325395,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.968,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.077,
+        "prezzo": 2.076,
         "modalita": "Servito"
       },
       {
@@ -328276,42 +328247,42 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.209,
+        "prezzo": 2.229,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.329,
+        "prezzo": 2.339,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.579,
+        "prezzo": 2.589,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.419,
+        "prezzo": 2.429,
         "modalita": "Self"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.479,
+        "prezzo": 2.499,
         "modalita": "Servito"
       },
       {
         "tipo": "HiQ Perform+",
-        "prezzo": 2.299,
+        "prezzo": 2.319,
         "modalita": "Self"
       }
     ]
@@ -328531,22 +328502,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.558,
+        "prezzo": 1.585,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 1.558,
+        "prezzo": 1.585,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 1.758,
+        "prezzo": 1.785,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 1.758,
+        "prezzo": 1.785,
         "modalita": "Self"
       },
       {
@@ -330263,7 +330234,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -331020,22 +330991,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.239,
+        "prezzo": 2.249,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.339,
+        "prezzo": 2.349,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -331723,7 +331694,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -333079,32 +333050,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.219,
+        "prezzo": 2.239,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.319,
+        "prezzo": 2.349,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.519,
+        "prezzo": 2.549,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.269,
+        "prezzo": 2.299,
         "modalita": "Self"
       }
     ]
@@ -333829,32 +333800,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.259,
+        "prezzo": 2.269,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.429,
+        "prezzo": 2.439,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.129,
+        "prezzo": 2.139,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.679,
+        "prezzo": 2.689,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.429,
+        "prezzo": 2.439,
         "modalita": "Self"
       }
     ]
@@ -335894,32 +335865,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 2.029,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.079,
+        "prezzo": 2.109,
         "modalita": "Servito"
       },
       {
         "tipo": "HVO",
-        "prezzo": 2.079,
+        "prezzo": 2.109,
         "modalita": "Self"
       }
     ]
@@ -336391,12 +336362,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.969,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.069,
         "modalita": "Self"
       }
     ]
@@ -339244,7 +339215,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       },
       {
@@ -339254,7 +339225,7 @@
       },
       {
         "tipo": "REHVO",
-        "prezzo": 2.099,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -339616,7 +339587,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.075,
+        "prezzo": 2.085,
         "modalita": "Self"
       }
     ]
@@ -340351,7 +340322,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.949,
+        "prezzo": 1.959,
         "modalita": "Self"
       },
       {
@@ -340522,12 +340493,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.947,
+        "prezzo": 1.957,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.047,
+        "prezzo": 2.067,
         "modalita": "Self"
       }
     ]
@@ -340935,12 +340906,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.029,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -341669,12 +341640,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -341795,32 +341766,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.169,
+        "prezzo": 2.189,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.269,
+        "prezzo": 2.329,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.139,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.449,
+        "prezzo": 2.509,
         "modalita": "Servito"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.259,
+        "prezzo": 2.319,
         "modalita": "Self"
       }
     ]
@@ -343283,22 +343254,22 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.309,
+        "prezzo": 2.329,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.059,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.559,
+        "prezzo": 2.579,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.359,
+        "prezzo": 2.379,
         "modalita": "Self"
       }
     ]
@@ -343705,12 +343676,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.039,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.189,
+        "prezzo": 2.199,
         "modalita": "Self"
       }
     ]
@@ -344415,12 +344386,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
@@ -346028,12 +345999,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -346503,12 +346474,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.299,
+        "prezzo": 2.289,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.089,
         "modalita": "Self"
       }
     ]
@@ -348363,7 +348334,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -348381,7 +348352,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -348394,7 +348365,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
@@ -350402,22 +350373,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.987,
+        "prezzo": 2.047,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.987,
+        "prezzo": 1.997,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.087,
+        "prezzo": 2.157,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.087,
+        "prezzo": 2.107,
         "modalita": "Self"
       }
     ]
@@ -351708,12 +351679,12 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.129,
+        "prezzo": 2.149,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -351800,7 +351771,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.079,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -351940,7 +351911,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
@@ -352029,22 +352000,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.009,
+        "prezzo": 2.019,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 2.009,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       }
     ]
@@ -352179,12 +352150,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.009,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       }
     ]
@@ -353195,12 +353166,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.979,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.089,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
@@ -355431,22 +355402,22 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.379,
+        "prezzo": 2.399,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.999,
+        "prezzo": 2.019,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.479,
+        "prezzo": 2.519,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.139,
         "modalita": "Self"
       },
       {
@@ -358259,7 +358230,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2,
+        "prezzo": 2.087,
         "modalita": "Self"
       },
       {
@@ -360324,32 +360295,32 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.269,
+        "prezzo": 2.279,
         "modalita": "Servito"
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.989,
+        "prezzo": 1.999,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.399,
+        "prezzo": 2.409,
         "modalita": "Servito"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.119,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.649,
+        "prezzo": 2.659,
         "modalita": "Servito"
       },
       {
         "tipo": "Hi-Q Diesel",
-        "prezzo": 2.419,
+        "prezzo": 2.429,
         "modalita": "Self"
       }
     ]
@@ -360525,12 +360496,12 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.029,
+        "prezzo": 2.059,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.099,
+        "prezzo": 2.129,
         "modalita": "Self"
       },
       {
@@ -360540,7 +360511,7 @@
       },
       {
         "tipo": "Gasolio Premium",
-        "prezzo": 2.199,
+        "prezzo": 2.229,
         "modalita": "Self"
       }
     ]
@@ -362332,7 +362303,7 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 2.049,
+        "prezzo": 2.079,
         "modalita": "Self"
       },
       {
@@ -362538,7 +362509,7 @@
       },
       {
         "tipo": "Benzina",
-        "prezzo": 1.959,
+        "prezzo": 1.979,
         "modalita": "Self"
       },
       {
@@ -362548,7 +362519,7 @@
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.029,
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
@@ -365298,17 +365269,17 @@
     "prezzi": [
       {
         "tipo": "Benzina",
-        "prezzo": 1.969,
+        "prezzo": 1.989,
         "modalita": "Self"
       },
       {
         "tipo": "Gasolio",
-        "prezzo": 2.069,
+        "prezzo": 2.099,
         "modalita": "Self"
       },
       {
         "tipo": "Supreme Diesel",
-        "prezzo": 2.189,
+        "prezzo": 2.219,
         "modalita": "Self"
       }
     ]
@@ -366029,6 +366000,54 @@
       {
         "tipo": "HVO",
         "prezzo": 2.089,
+        "modalita": "Self"
+      }
+    ]
+  },
+  {
+    "nome": "Oll",
+    "indirizzo": "Via G. Borghi 22  21025",
+    "lat": "45.84166009322137",
+    "lng": "8.737425041670702",
+    "prezzi": [
+      {
+        "tipo": "Benzina",
+        "prezzo": 1.979,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Benzina",
+        "prezzo": 1.979,
+        "modalita": "Self"
+      },
+      {
+        "tipo": "Gasolio",
+        "prezzo": 2.069,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Gasolio",
+        "prezzo": 2.069,
+        "modalita": "Self"
+      },
+      {
+        "tipo": "Benzina speciale",
+        "prezzo": 2.099,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Benzina speciale",
+        "prezzo": 2.099,
+        "modalita": "Self"
+      },
+      {
+        "tipo": "Gasolio speciale",
+        "prezzo": 2.119,
+        "modalita": "Servito"
+      },
+      {
+        "tipo": "Gasolio speciale",
+        "prezzo": 2.119,
         "modalita": "Self"
       }
     ]
